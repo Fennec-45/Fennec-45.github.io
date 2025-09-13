@@ -103,4 +103,4 @@ theme: landscape
 deploy: 
   type: git
   repo: https://github.com/Fennec-45/Fennec-45.github.io.git
-  branch: main
+  branch: master
