@@ -4,12 +4,12 @@
 
 # Site
 title: Fennec‘s blog
-subtitle: ''
+subtitle: 'Fennec'
 description: ''
 keywords:
 author: Fennec
-language: en
-timezone: ''
+language: zh-cn
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
