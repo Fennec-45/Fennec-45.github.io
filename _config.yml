@@ -102,5 +102,5 @@ theme: Bluelake
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy: 
   type: git
-  repo: https://Fennec-45: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@github.com/Fennec-45/Fennec-45.github.io.git
+  repo: https://Fennec-45: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@github.com/Fennec-45/Fennec-45.github.io.git
   branch: master
